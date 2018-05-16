@@ -28,11 +28,11 @@ function searchFilter(page_num) {
 </script>
 
 </head>
-<body background="http://www.tokkoro.com/picsup/2616044-minimalism-ultra-high-definition-wallpaper.jpg" style="margin-top: 10%">
+
 
 <center>
 <div class="container">
-    <h1 style="font-family: century gothic; font-weight: bold;">Ajax Pagination with Search in CodeIgniter</h1>
+    <h1 style=" font-weight: bold;">Ajax Pagination with Search in CodeIgniter</h1>
     <div class="row">
         <div class="post-search-panel">
             <input type="text" id="keywords" placeholder="Type keywords to filter posts" onkeyup="searchFilter()"/>
